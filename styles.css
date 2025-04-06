@@ -1,0 +1,12 @@
+body {
+    app-region: drag;
+}
+
+.titlebar {
+    user-select: none;
+    app-region: drag;
+}
+
+button {
+    app-region: no-drag;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "desktopapp",
+  "version": "1.0.0",
+  "description": "an app for music playing ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgopinath3693/MeowPlayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgopinath3693/MeowPlayer/issues"
+  },
+  "homepage": "https://github.com/dgopinath3693/MeowPlayer#readme",
+  "devDependencies": {
+    "electron": "^35.1.4"
+  }
+}
